@@ -13,7 +13,13 @@ if wahl == "Über diese APP":
     st.header("Über diese App")
     st.write("Version 1.0.0")
     st.write("Erstellt 05.06.2026")
-    st.write("Hochgeladen 7.06.2026")
+    st.write("Hochgeladen 06.06.2026")
+
+    st.divider()
+
+    st.header("Ähnliche APPs")
+    st.markdown("[• Lotto-web](https://lotto-web.streamlit.app)")
+
 else:
     if wahl == "x²":
         st.title("x²")
