@@ -17,7 +17,7 @@ if wahl == "Über diese APP":
 
     st.divider()
 
-    st.header("Ähnliche APPs")
+    st.header("Weitere APPs")
     st.markdown("[• Lotto-web](https://lotto-web.streamlit.app)")
 
 else:
